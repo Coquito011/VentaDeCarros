@@ -1,0 +1,1001 @@
+marca,modelo,anio,combustible,transmision,kilometraje,estado,precio
+Chevrolet,Captiva,2025,Diesel,Automatico,5717,Mal estado,90400000
+Toyota,Prado,2008,Gasolina,Automatico,192291,Medio estado,72400000
+Toyota,Fortuner,2005,Diesel,Automatico,286700,Segunda mano,54000000
+Ford,Fiesta,2023,Gasolina,Manual,34459,Segunda mano,49900000
+Volkswagen,Gol,2016,Gasolina,Manual,185965,Mal estado,9600000
+Nissan,March,2014,Gasolina,Manual,79550,Segunda mano,12800000
+Ford,Escape,2023,Gasolina,Automatico,29000,Buen estado,112900000
+Toyota,Hilux,2013,Diesel,Automatico,219325,Medio estado,57700000
+Mazda,Mazda 3,2018,Gasolina,Automatico,109347,Medio estado,40500000
+Mazda,CX-30,2024,Gasolina,Automatico,34485,Buen estado,114900000
+Chevrolet,Sail,2009,Gasolina,Manual,164672,Mal estado,8600000
+Toyota,Corolla,2012,Gasolina,Automatico,136341,Medio estado,23900000
+Honda,CR-V,2012,Gasolina,Automatico,199492,Mal estado,39000000
+Honda,Civic,2010,Gasolina,Manual,217657,Segunda mano,25000000
+Renault,Koleos,2011,Diesel,Automatico,126410,Segunda mano,33100000
+Honda,City,2016,Gasolina,Manual,144797,Buen estado,24100000
+Kia,Picanto,2008,Gasolina,Manual,358777,Mal estado,5700000
+Nissan,Frontier,2021,Diesel,Automatico,74064,Segunda mano,116400000
+Chevrolet,Captiva,2026,Diesel,Automatico,0,Nuevo 0 km,143900000
+Chevrolet,Joy,2008,Gasolina,Manual,341036,Medio estado,7000000
+Renault,Stepway,2025,Gasolina,Automatico,8460,Buen estado,69300000
+Chevrolet,Spark,2014,Gasolina,Manual,220743,Mal estado,7000000
+Hyundai,Elantra,2014,Gasolina,Automatico,137000,Segunda mano,29700000
+Honda,City,2019,Gasolina,Automatico,96288,Medio estado,33400000
+Chevrolet,Spark,2014,Gasolina,Automatico,215286,Mal estado,7500000
+Volkswagen,Gol,2012,Gasolina,Manual,185894,Segunda mano,9800000
+Toyota,Corolla,2012,Gasolina,Automatico,158499,Segunda mano,24800000
+Mazda,CX-30,2024,Gasolina,Automatico,12140,Buen estado,129900000
+Renault,Sandero,2009,Gasolina,Manual,412012,Mal estado,5800000
+Honda,Civic,2019,Gasolina,Automatico,153853,Medio estado,46600000
+Chevrolet,Joy,2023,Gasolina,Manual,40888,Buen estado,41400000
+Kia,Seltos,2007,Gasolina,Automatico,275366,Buen estado,20500000
+Volkswagen,Tiguan,2024,Gasolina,Automatico,57168,Mal estado,91100000
+Toyota,Fortuner,2012,Diesel,Automatico,157989,Medio estado,71200000
+Volkswagen,Polo,2005,Gasolina,Manual,435533,Medio estado,10700000
+Mazda,BT-50,2021,Diesel,Automatico,301905,Mal estado,60700000
+Kia,Sorento,2019,Gasolina,Automatico,82249,Segunda mano,122600000
+Hyundai,Creta,2008,Gasolina,Automatico,257612,Buen estado,19200000
+Nissan,Sentra,2011,Gasolina,Manual,262304,Buen estado,15000000
+Honda,Civic,2015,Gasolina,Manual,233000,Segunda mano,28800000
+Ford,EcoSport,2014,Diesel,Manual,244674,Segunda mano,17400000
+Hyundai,Accent,2010,Gasolina,Manual,298677,Segunda mano,11600000
+Honda,Accord,2018,Gasolina,Automatico,209757,Mal estado,35600000
+Kia,Rio,2009,Gasolina,Manual,304672,Segunda mano,11700000
+Renault,Logan,2018,Gasolina,Manual,56984,Buen estado,27000000
+Honda,Civic,2015,Gasolina,Manual,93477,Segunda mano,37500000
+Honda,City,2013,Gasolina,Automatico,261380,Mal estado,11800000
+Honda,City,2025,Gasolina,Automatico,22548,Mal estado,56100000
+Mazda,Mazda 2,2025,Gasolina,Automatico,0,Nuevo 0 km,74300000
+Nissan,X-Trail,2007,Gasolina,Automatico,289650,Segunda mano,29200000
+Hyundai,i10,2018,Gasolina,Automatico,128831,Buen estado,19500000
+Renault,Sandero,2025,Gasolina,Manual,17283,Medio estado,49900000
+Hyundai,Santa Fe,2015,Diesel,Automatico,229791,Mal estado,48700000
+Hyundai,Tucson,2015,Gasolina,Automatico,156990,Mal estado,27300000
+Kia,Seltos,2022,Gasolina,Manual,48061,Medio estado,59300000
+Nissan,Kicks,2025,Gasolina,Automatico,15411,Medio estado,77900000
+Chevrolet,Tracker,2007,Gasolina,Manual,205158,Buen estado,20400000
+Honda,HR-V,2025,Gasolina,Automatico,0,Nuevo 0 km,145700000
+Toyota,RAV4,2013,Gasolina,Automatico,88003,Medio estado,55700000
+Kia,Sportage,2021,Gasolina,Automatico,73596,Segunda mano,79800000
+Kia,Rio,2015,Gasolina,Manual,231365,Segunda mano,14500000
+Kia,Seltos,2025,Gasolina,Automatico,0,Nuevo 0 km,102600000
+Kia,Picanto,2010,Gasolina,Automatico,282470,Medio estado,7900000
+Mazda,BT-50,2022,Diesel,Manual,80679,Mal estado,87200000
+Renault,Stepway,2016,Diesel,Automatico,101264,Segunda mano,24600000
+Honda,City,2026,Gasolina,Automatico,0,Nuevo 0 km,92700000
+Ford,EcoSport,2011,Gasolina,Manual,275847,Segunda mano,13500000
+Hyundai,Tucson,2006,Gasolina,Automatico,189035,Medio estado,25800000
+Renault,Sandero,2026,Diesel,Manual,0,Nuevo 0 km,63300000
+Mazda,BT-50,2006,Diesel,Manual,315325,Segunda mano,29200000
+Hyundai,Accent,2025,Gasolina,Automatico,21368,Medio estado,55500000
+Mazda,CX-5,2005,Gasolina,Automatico,462953,Segunda mano,20400000
+Mazda,Mazda 2,2017,Gasolina,Manual,278959,Medio estado,15200000
+Chevrolet,Onix,2008,Gasolina,Manual,243000,Buen estado,13800000
+Volkswagen,Jetta,2006,Gasolina,Manual,153709,Segunda mano,23800000
+Honda,City,2025,Gasolina,Automatico,0,Nuevo 0 km,84300000
+Ford,Explorer,2021,Gasolina,Automatico,58972,Medio estado,155700000
+Kia,Seltos,2011,Gasolina,Automatico,240000,Mal estado,14500000
+Toyota,Hilux,2023,Gasolina,Automatico,54742,Segunda mano,166500000
+Toyota,RAV4,2020,Gasolina,Automatico,77347,Mal estado,81500000
+Mazda,Mazda 2,2010,Gasolina,Manual,185072,Medio estado,13800000
+Hyundai,Elantra,2010,Gasolina,Manual,292626,Segunda mano,16100000
+Chevrolet,Sail,2021,Gasolina,Automatico,96840,Mal estado,20900000
+Ford,Focus,2017,Gasolina,Manual,84412,Buen estado,34600000
+Toyota,RAV4,2013,Gasolina,Automatico,157833,Medio estado,51500000
+Ford,Escape,2006,Gasolina,Automatico,209862,Segunda mano,31600000
+Nissan,Frontier,2022,Diesel,Manual,33911,Medio estado,124000000
+Mazda,Mazda 3,2026,Diesel,Automatico,0,Nuevo 0 km,116100000
+Chevrolet,Spark,2015,Gasolina,Manual,156338,Buen estado,13100000
+Nissan,March,2006,Gasolina,Manual,175847,Medio estado,10300000
+Ford,Ranger,2017,Gasolina,Automatico,69055,Medio estado,93700000
+Hyundai,Accent,2022,Gasolina,Automatico,82513,Medio estado,39800000
+Kia,Picanto,2022,Gasolina,Automatico,55408,Buen estado,32700000
+Nissan,X-Trail,2009,Gasolina,Automatico,150883,Buen estado,35400000
+Toyota,RAV4,2012,Gasolina,Automatico,241143,Medio estado,39200000
+Volkswagen,Jetta,2014,Gasolina,Automatico,214378,Medio estado,21600000
+Toyota,RAV4,2010,Gasolina,Automatico,136759,Medio estado,40800000
+Toyota,Fortuner,2014,Gasolina,Automatico,143170,Segunda mano,84600000
+Toyota,RAV4,2013,Gasolina,Automatico,224977,Segunda mano,52800000
+Mazda,Mazda 2,2017,Gasolina,Manual,77465,Buen estado,26800000
+Chevrolet,Joy,2008,Gasolina,Manual,262726,Buen estado,9300000
+Chevrolet,Onix,2006,Gasolina,Automatico,416568,Medio estado,9600000
+Chevrolet,Spark,2024,Gasolina,Manual,27598,Buen estado,37000000
+Chevrolet,Sail,2020,Gasolina,Automatico,63628,Buen estado,30400000
+Ford,Ranger,2007,Diesel,Manual,171956,Buen estado,41100000
+Mazda,Mazda 3,2017,Gasolina,Manual,153062,Mal estado,26200000
+Chevrolet,Sail,2008,Gasolina,Manual,485062,Mal estado,5000000
+Nissan,Versa,2008,Gasolina,Manual,146653,Buen estado,13800000
+Honda,Civic,2000,Gasolina,Manual,175840,Medio estado,24900000
+Renault,Logan,2019,Gasolina,Manual,77785,Segunda mano,24000000
+Hyundai,Elantra,2023,Gasolina,Manual,67923,Buen estado,74400000
+Renault,Stepway,2010,Gasolina,Manual,246956,Medio estado,11900000
+Volkswagen,Amarok,2024,Gasolina,Automatico,52000,Mal estado,119700000
+Renault,Logan,2014,Gasolina,Manual,198733,Segunda mano,12000000
+Nissan,Frontier,2009,Diesel,Automatico,180364,Buen estado,48200000
+Toyota,Prado,2011,Gasolina,Automatico,218010,Segunda mano,94500000
+Nissan,Versa,2026,Gasolina,Automatico,0,Nuevo 0 km,71700000
+Nissan,Versa,2014,Gasolina,Automatico,135424,Segunda mano,17100000
+Kia,Cerato,2023,Gasolina,Automatico,32475,Buen estado,81600000
+Chevrolet,Onix,2023,Gasolina,Manual,44185,Medio estado,42200000
+Honda,Civic,2012,Gasolina,Manual,157889,Buen estado,24800000
+Volkswagen,Gol,2012,Gasolina,Manual,231114,Medio estado,8400000
+Hyundai,Accent,2017,Gasolina,Manual,129702,Buen estado,25600000
+Hyundai,Creta,2014,Gasolina,Manual,137051,Medio estado,25400000
+Renault,Koleos,2015,Diesel,Automatico,140769,Mal estado,34100000
+Chevrolet,Captiva,2019,Gasolina,Automatico,197527,Mal estado,33200000
+Nissan,Versa,2010,Gasolina,Manual,277665,Buen estado,12300000
+Volkswagen,Jetta,2005,Gasolina,Manual,131779,Segunda mano,22000000
+Hyundai,Santa Fe,2010,Diesel,Automatico,176690,Buen estado,58800000
+Honda,HR-V,2008,Gasolina,Manual,223685,Segunda mano,25100000
+Nissan,Versa,2025,Diesel,Automatico,0,Nuevo 0 km,61300000
+Volkswagen,Amarok,2008,Gasolina,Automatico,91480,Buen estado,42300000
+Hyundai,Santa Fe,2006,Diesel,Automatico,178676,Medio estado,45500000
+Ford,Explorer,2022,Diesel,Manual,58330,Buen estado,192500000
+Kia,Sportage,2020,Gasolina,Automatico,56343,Mal estado,49700000
+Chevrolet,Tracker,2013,Gasolina,Manual,182446,Buen estado,19800000
+Kia,Rio,2025,Gasolina,Automatico,0,Nuevo 0 km,72700000
+Toyota,Corolla,2006,Gasolina,Manual,272066,Buen estado,24200000
+Toyota,Corolla,2024,Gasolina,Automatico,52195,Mal estado,75600000
+Hyundai,Accent,2023,Gasolina,Automatico,46564,Mal estado,46200000
+Nissan,Sentra,2016,Gasolina,Automatico,157498,Segunda mano,27900000
+Nissan,Frontier,2020,Gasolina,Automatico,114851,Medio estado,88100000
+Nissan,Versa,2022,Gasolina,Automatico,54088,Segunda mano,36700000
+Toyota,RAV4,2014,Gasolina,Automatico,81082,Segunda mano,70700000
+Honda,Civic,2017,Diesel,Manual,74383,Segunda mano,43400000
+Hyundai,Creta,2023,Gasolina,Automatico,26176,Buen estado,77000000
+Renault,Logan,2019,Gasolina,Manual,78490,Medio estado,23700000
+Nissan,Sentra,2025,Gasolina,Automatico,10661,Segunda mano,83200000
+Renault,Kwid,2022,Gasolina,Manual,43690,Medio estado,26800000
+Volkswagen,Amarok,2022,Diesel,Automatico,35167,Segunda mano,159300000
+Chevrolet,Sail,2010,Gasolina,Manual,210588,Medio estado,9200000
+Nissan,Kicks,2026,Gasolina,Automatico,0,Nuevo 0 km,97700000
+Toyota,Hilux,2023,Diesel,Automatico,57025,Buen estado,159500000
+Mazda,Mazda 3,2008,Gasolina,Manual,365169,Medio estado,14400000
+Kia,Sportage,2021,Gasolina,Automatico,59426,Buen estado,81500000
+Hyundai,Santa Fe,2005,Diesel,Automatico,296180,Buen estado,50100000
+Chevrolet,Spark,2015,Gasolina,Manual,265341,Mal estado,7300000
+Chevrolet,Joy,2009,Gasolina,Manual,163000,Mal estado,8200000
+Hyundai,Tucson,2022,Gasolina,Automatico,39548,Buen estado,90700000
+Kia,Rio,2019,Gasolina,Automatico,113475,Segunda mano,28800000
+Volkswagen,Tiguan,2024,Gasolina,Automatico,21526,Buen estado,133100000
+Nissan,March,2006,Gasolina,Manual,484425,Mal estado,5000000
+Ford,Focus,2010,Gasolina,Automatico,164732,Mal estado,16700000
+Honda,Fit,2022,Gasolina,Manual,64404,Buen estado,43400000
+Kia,Sportage,2009,Gasolina,Automatico,90921,Buen estado,31700000
+Nissan,Sentra,2025,Gasolina,Automatico,12438,Segunda mano,79100000
+Volkswagen,Gol,2025,Gasolina,Manual,12000,Buen estado,51800000
+Mazda,BT-50,2019,Diesel,Automatico,116784,Mal estado,68900000
+Volkswagen,Polo,2018,Gasolina,Manual,53036,Segunda mano,34600000
+Kia,Rio,2023,Gasolina,Automatico,60334,Segunda mano,49500000
+Toyota,Yaris,2025,Gasolina,Manual,6075,Medio estado,53500000
+Renault,Sandero,2011,Gasolina,Manual,263625,Medio estado,9300000
+Chevrolet,Captiva,2025,Gasolina,Automatico,18242,Segunda mano,105600000
+Honda,Civic,2009,Gasolina,Automatico,136265,Buen estado,26000000
+Renault,Duster,2026,Gasolina,Automatico,0,Nuevo 0 km,91500000
+Mazda,Mazda 3,2025,Gasolina,Automatico,14320,Segunda mano,101800000
+Volkswagen,Amarok,2013,Gasolina,Manual,131158,Segunda mano,74000000
+Nissan,March,2014,Gasolina,Manual,143557,Buen estado,13900000
+Chevrolet,Spark,2016,Gasolina,Manual,283353,Mal estado,7500000
+Nissan,Sentra,2010,Gasolina,Automatico,185820,Medio estado,17900000
+Volkswagen,Jetta,2005,Gasolina,Manual,342195,Medio estado,19400000
+Kia,Sorento,2005,Gasolina,Automatico,393009,Mal estado,26500000
+Mazda,BT-50,2024,Gasolina,Automatico,44099,Segunda mano,131600000
+Volkswagen,Gol,2022,Gasolina,Automatico,44468,Medio estado,34100000
+Honda,Civic,2025,Gasolina,Manual,12021,Medio estado,104600000
+Renault,Kwid,2020,Gasolina,Manual,125199,Medio estado,19300000
+Toyota,Yaris,2012,Gasolina,Automatico,253415,Segunda mano,11500000
+Mazda,CX-30,2025,Gasolina,Automatico,17889,Mal estado,91800000
+Hyundai,Santa Fe,2017,Diesel,Automatico,103834,Medio estado,89300000
+Kia,Cerato,2025,Gasolina,Automatico,14722,Mal estado,73200000
+Toyota,Hilux,2024,Diesel,Automatico,42523,Medio estado,188900000
+Hyundai,i10,2016,Gasolina,Manual,88876,Segunda mano,15800000
+Renault,Logan,2009,Diesel,Automatico,108728,Buen estado,12700000
+Chevrolet,Joy,2006,Gasolina,Manual,423776,Segunda mano,7400000
+Chevrolet,Tracker,2005,Gasolina,Automatico,283766,Mal estado,13500000
+Honda,City,2010,Gasolina,Automatico,317702,Segunda mano,12100000
+Honda,Accord,2009,Gasolina,Manual,184627,Buen estado,34400000
+Renault,Kwid,2014,Diesel,Manual,166045,Mal estado,7300000
+Nissan,Versa,2022,Diesel,Automatico,27418,Buen estado,45200000
+Volkswagen,Amarok,2007,Diesel,Manual,150062,Medio estado,39800000
+Hyundai,Tucson,2018,Gasolina,Automatico,83328,Mal estado,43600000
+Kia,Rio,2021,Gasolina,Manual,38927,Buen estado,48000000
+Ford,Fiesta,2020,Gasolina,Manual,108447,Medio estado,28600000
+Toyota,Fortuner,2025,Gasolina,Automatico,0,Nuevo 0 km,264300000
+Kia,Sorento,2005,Diesel,Automatico,317661,Segunda mano,37800000
+Chevrolet,Tracker,2025,Gasolina,Automatico,0,Nuevo 0 km,94900000
+Nissan,March,2017,Gasolina,Manual,78072,Segunda mano,18700000
+Toyota,Hilux,2010,Diesel,Manual,195014,Segunda mano,49800000
+Nissan,Sentra,2025,Gasolina,Automatico,0,Nuevo 0 km,85700000
+Honda,Accord,2024,Gasolina,Manual,38677,Segunda mano,114500000
+Volkswagen,Tiguan,2022,Gasolina,Automatico,38846,Buen estado,120000000
+Honda,CR-V,2022,Diesel,Automatico,32235,Buen estado,139700000
+Honda,Fit,2016,Gasolina,Manual,103564,Mal estado,17700000
+Hyundai,Accent,2026,Gasolina,Automatico,0,Nuevo 0 km,75800000
+Honda,HR-V,2011,Gasolina,Manual,244633,Segunda mano,22500000
+Kia,Sorento,2023,Gasolina,Automatico,33921,Medio estado,172600000
+Toyota,Prado,2025,Gasolina,Automatico,0,Nuevo 0 km,404100000
+Nissan,March,2013,Gasolina,Manual,118435,Buen estado,14000000
+Chevrolet,Onix,2010,Gasolina,Manual,395000,Mal estado,6400000
+Chevrolet,Spark,2023,Gasolina,Automatico,49884,Segunda mano,31200000
+Ford,Explorer,2013,Diesel,Automatico,231597,Segunda mano,74800000
+Hyundai,Accent,2025,Gasolina,Manual,0,Nuevo 0 km,69600000
+Nissan,X-Trail,2026,Gasolina,Automatico,0,Nuevo 0 km,173400000
+Kia,Cerato,2023,Gasolina,Automatico,347446,Medio estado,40400000
+Ford,Explorer,2022,Gasolina,Automatico,56136,Buen estado,195300000
+Chevrolet,Tracker,2019,Gasolina,Automatico,99662,Medio estado,39900000
+Renault,Logan,2018,Gasolina,Manual,116580,Segunda mano,26000000
+Ford,Explorer,2024,Diesel,Manual,47663,Mal estado,182000000
+Hyundai,Creta,2014,Gasolina,Automatico,147775,Medio estado,22600000
+Chevrolet,Captiva,2025,Diesel,Automatico,28611,Mal estado,83000000
+Chevrolet,Joy,2010,Gasolina,Automatico,225949,Mal estado,6600000
+Hyundai,i10,2021,Diesel,Manual,45111,Medio estado,23900000
+Hyundai,Accent,2023,Gasolina,Automatico,31968,Buen estado,56700000
+Ford,EcoSport,2025,Gasolina,Automatico,0,Nuevo 0 km,92000000
+Chevrolet,Captiva,2025,Diesel,Automatico,0,Nuevo 0 km,119500000
+Renault,Koleos,2026,Gasolina,Automatico,0,Nuevo 0 km,150000000
+Kia,Sportage,2017,Gasolina,Automatico,144999,Mal estado,30000000
+Ford,Focus,2026,Gasolina,Manual,0,Nuevo 0 km,94100000
+Volkswagen,Polo,2013,Gasolina,Manual,76427,Buen estado,18700000
+Nissan,Versa,2007,Gasolina,Automatico,217472,Buen estado,14200000
+Nissan,Sentra,2025,Gasolina,Manual,20000,Medio estado,69400000
+Ford,EcoSport,2025,Gasolina,Automatico,13795,Segunda mano,78500000
+Volkswagen,Amarok,2026,Diesel,Automatico,0,Nuevo 0 km,206400000
+Hyundai,i10,2007,Gasolina,Manual,122005,Medio estado,8300000
+Mazda,CX-5,2025,Diesel,Automatico,0,Nuevo 0 km,178200000
+Honda,City,2008,Gasolina,Manual,284102,Buen estado,13700000
+Nissan,Frontier,2025,Diesel,Automatico,0,Nuevo 0 km,182700000
+Renault,Kwid,2021,Gasolina,Manual,104103,Medio estado,22500000
+Toyota,Prado,2012,Diesel,Manual,263022,Segunda mano,112900000
+Ford,Focus,2012,Gasolina,Manual,129056,Mal estado,13300000
+Chevrolet,Tracker,2008,Gasolina,Manual,286000,Segunda mano,16100000
+Volkswagen,Jetta,2009,Gasolina,Manual,470311,Mal estado,10800000
+Chevrolet,Joy,2017,Gasolina,Manual,50796,Buen estado,22100000
+Honda,Civic,2013,Gasolina,Automatico,145220,Buen estado,29000000
+Chevrolet,Tracker,2015,Gasolina,Automatico,236301,Segunda mano,21700000
+Mazda,Mazda 3,2017,Gasolina,Manual,111771,Medio estado,37200000
+Kia,Seltos,2014,Gasolina,Manual,212865,Segunda mano,23000000
+Hyundai,Tucson,2023,Gasolina,Automatico,69981,Segunda mano,88700000
+Toyota,Fortuner,2025,Gasolina,Automatico,25759,Mal estado,171600000
+Kia,Seltos,2020,Gasolina,Manual,82808,Mal estado,35600000
+Ford,Explorer,2014,Diesel,Automatico,185318,Medio estado,81500000
+Renault,Logan,2025,Gasolina,Manual,0,Nuevo 0 km,55800000
+Toyota,Yaris,2019,Gasolina,Automatico,118000,Segunda mano,29000000
+Chevrolet,Onix,2011,Gasolina,Manual,157760,Mal estado,10100000
+Renault,Logan,2022,Gasolina,Automatico,66756,Medio estado,35300000
+Ford,Explorer,2013,Diesel,Automatico,205894,Mal estado,64600000
+Nissan,Frontier,2021,Diesel,Manual,68391,Segunda mano,121100000
+Hyundai,Santa Fe,2023,Diesel,Manual,24596,Buen estado,186000000
+Mazda,Mazda 6,2020,Gasolina,Automatico,108552,Medio estado,67800000
+Mazda,BT-50,2021,Diesel,Manual,97472,Medio estado,93300000
+Honda,Accord,2010,Gasolina,Automatico,351428,Medio estado,19800000
+Renault,Logan,2017,Gasolina,Manual,94016,Medio estado,20300000
+Volkswagen,Amarok,2025,Diesel,Automatico,0,Nuevo 0 km,214400000
+Toyota,Prado,2012,Diesel,Automatico,243726,Mal estado,88400000
+Volkswagen,Amarok,2023,Gasolina,Automatico,26980,Segunda mano,178800000
+Honda,CR-V,2024,Gasolina,Automatico,44685,Segunda mano,154000000
+Mazda,Mazda 6,2005,Gasolina,Manual,362580,Buen estado,24800000
+Ford,Explorer,2017,Diesel,Automatico,113018,Buen estado,123900000
+Renault,Sandero,2025,Gasolina,Manual,10979,Segunda mano,56500000
+Volkswagen,Tiguan,2008,Gasolina,Automatico,479415,Mal estado,15800000
+Ford,Focus,2016,Gasolina,Automatico,203251,Medio estado,23500000
+Chevrolet,Joy,2025,Gasolina,Manual,0,Nuevo 0 km,42800000
+Renault,Stepway,2011,Gasolina,Manual,263695,Medio estado,11500000
+Ford,Fiesta,2025,Gasolina,Automatico,22173,Segunda mano,61900000
+Chevrolet,Tracker,2023,Gasolina,Automatico,45137,Buen estado,67400000
+Volkswagen,Gol,2008,Gasolina,Manual,193401,Segunda mano,10500000
+Kia,Seltos,2025,Gasolina,Automatico,11529,Buen estado,103600000
+Honda,HR-V,2021,Gasolina,Manual,44971,Buen estado,81500000
+Honda,Accord,2014,Gasolina,Automatico,203845,Medio estado,31500000
+Hyundai,i10,2024,Gasolina,Automatico,19266,Segunda mano,39400000
+Ford,Escape,2015,Gasolina,Automatico,169524,Medio estado,34900000
+Ford,Escape,2014,Gasolina,Automatico,160155,Segunda mano,36100000
+Kia,Cerato,2017,Gasolina,Automatico,86660,Buen estado,42100000
+Ford,Fiesta,2022,Gasolina,Manual,65622,Medio estado,32000000
+Toyota,Corolla,2016,Gasolina,Automatico,132757,Medio estado,33100000
+Ford,Focus,2025,Gasolina,Automatico,0,Nuevo 0 km,91300000
+Chevrolet,Captiva,2025,Gasolina,Automatico,9780,Buen estado,118500000
+Toyota,Prado,2025,Diesel,Automatico,0,Nuevo 0 km,401800000
+Mazda,CX-30,2022,Gasolina,Automatico,45444,Mal estado,64000000
+Volkswagen,Polo,2017,Gasolina,Manual,157088,Segunda mano,26100000
+Nissan,March,2019,Gasolina,Manual,87276,Medio estado,23700000
+Hyundai,Creta,2011,Gasolina,Automatico,266525,Buen estado,16400000
+Ford,EcoSport,2023,Diesel,Automatico,51930,Buen estado,65300000
+Mazda,Mazda 3,2024,Gasolina,Automatico,49416,Buen estado,88000000
+Mazda,BT-50,2023,Diesel,Manual,47376,Buen estado,133300000
+Honda,Fit,2022,Gasolina,Manual,54422,Medio estado,38500000
+Renault,Koleos,2015,Gasolina,Automatico,162182,Buen estado,40100000
+Mazda,BT-50,2016,Diesel,Automatico,110152,Medio estado,75100000
+Honda,HR-V,2026,Gasolina,Manual,15825,Buen estado,140000000
+Hyundai,i10,2005,Gasolina,Manual,329806,Mal estado,7000000
+Kia,Picanto,2007,Gasolina,Manual,291513,Medio estado,8700000
+Chevrolet,Joy,2006,Gasolina,Manual,299730,Segunda mano,9100000
+Renault,Logan,2022,Gasolina,Manual,82152,Medio estado,35400000
+Hyundai,Santa Fe,2010,Diesel,Automatico,212749,Buen estado,57900000
+Toyota,Corolla,2022,Gasolina,Manual,51252,Buen estado,78900000
+Ford,Ranger,2006,Gasolina,Manual,291048,Mal estado,26000000
+Nissan,Frontier,2025,Diesel,Automatico,16199,Buen estado,189100000
+Nissan,Frontier,2013,Diesel,Automatico,231391,Segunda mano,51200000
+Volkswagen,Gol,2019,Gasolina,Manual,121783,Buen estado,23900000
+Kia,Seltos,2009,Gasolina,Automatico,211724,Medio estado,18600000
+Mazda,Mazda 3,2018,Gasolina,Manual,110885,Buen estado,46300000
+Chevrolet,Tracker,2013,Gasolina,Manual,201821,Segunda mano,18900000
+Nissan,Sentra,2011,Gasolina,Manual,179571,Segunda mano,19300000
+Ford,Explorer,2025,Diesel,Automatico,18040,Buen estado,278800000
+Hyundai,Tucson,2018,Gasolina,Automatico,152972,Medio estado,50000000
+Volkswagen,Amarok,2022,Diesel,Automatico,64898,Buen estado,162500000
+Mazda,Mazda 6,2017,Gasolina,Automatico,149884,Buen estado,48800000
+Hyundai,Creta,2021,Gasolina,Automatico,78298,Segunda mano,55700000
+Hyundai,Accent,2026,Gasolina,Automatico,2956,Buen estado,72200000
+Chevrolet,Onix,2022,Gasolina,Manual,61034,Segunda mano,39500000
+Volkswagen,Gol,2018,Gasolina,Manual,149678,Medio estado,18700000
+Volkswagen,Tiguan,2026,Gasolina,Automatico,8536,Buen estado,180300000
+Honda,CR-V,2017,Gasolina,Automatico,103886,Buen estado,86800000
+Ford,Ranger,2009,Diesel,Manual,293144,Segunda mano,34700000
+Hyundai,Santa Fe,2026,Diesel,Automatico,10575,Buen estado,235200000
+Hyundai,i10,2019,Gasolina,Automatico,77464,Segunda mano,20700000
+Ford,Fiesta,2022,Gasolina,Manual,65071,Segunda mano,38700000
+Renault,Stepway,2009,Gasolina,Automatico,262335,Buen estado,14100000
+Mazda,Mazda 6,2018,Gasolina,Manual,118437,Buen estado,64800000
+Ford,Ranger,2023,Diesel,Automatico,34159,Buen estado,174800000
+Volkswagen,Jetta,2016,Gasolina,Automatico,169854,Segunda mano,29200000
+Hyundai,Accent,2013,Gasolina,Manual,167835,Medio estado,14600000
+Toyota,Hilux,2020,Diesel,Automatico,127422,Medio estado,111000000
+Hyundai,i10,2018,Gasolina,Manual,96626,Buen estado,20300000
+Nissan,Frontier,2020,Diesel,Manual,103993,Buen estado,121000000
+Nissan,Kicks,2026,Gasolina,Automatico,6340,Buen estado,90600000
+Nissan,Frontier,2005,Diesel,Manual,248390,Mal estado,28700000
+Mazda,CX-5,2014,Diesel,Automatico,128549,Segunda mano,43600000
+Kia,Sportage,2021,Gasolina,Automatico,54827,Segunda mano,71400000
+Renault,Stepway,2013,Diesel,Automatico,189574,Segunda mano,16200000
+Renault,Stepway,2008,Gasolina,Manual,207251,Medio estado,13900000
+Kia,Sportage,2020,Gasolina,Automatico,97067,Medio estado,63800000
+Mazda,Mazda 6,2023,Gasolina,Manual,57469,Buen estado,104300000
+Chevrolet,Onix,2023,Gasolina,Manual,49957,Buen estado,50400000
+Renault,Stepway,2016,Diesel,Manual,140349,Medio estado,20500000
+Kia,Sorento,2024,Diesel,Automatico,28958,Buen estado,211400000
+Kia,Sportage,2012,Gasolina,Automatico,207801,Medio estado,23600000
+Volkswagen,Tiguan,2022,Gasolina,Automatico,48477,Segunda mano,107400000
+Mazda,Mazda 2,2018,Gasolina,Manual,119910,Segunda mano,25500000
+Renault,Kwid,2019,Gasolina,Manual,126633,Segunda mano,17200000
+Mazda,BT-50,2009,Diesel,Automatico,292189,Segunda mano,32400000
+Volkswagen,Amarok,2005,Diesel,Manual,356245,Medio estado,32600000
+Renault,Stepway,2009,Gasolina,Automatico,224483,Buen estado,15900000
+Kia,Sportage,2019,Gasolina,Automatico,87624,Segunda mano,57300000
+Volkswagen,Amarok,2009,Gasolina,Manual,254279,Segunda mano,39900000
+Mazda,CX-30,2020,Gasolina,Automatico,89388,Buen estado,82000000
+Renault,Stepway,2011,Gasolina,Manual,236381,Medio estado,11100000
+Hyundai,i10,2019,Diesel,Manual,121730,Medio estado,16700000
+Mazda,CX-5,2024,Gasolina,Automatico,43125,Buen estado,136200000
+Ford,Focus,2016,Gasolina,Manual,150970,Medio estado,25900000
+Nissan,X-Trail,2026,Gasolina,Automatico,17931,Buen estado,165100000
+Volkswagen,Jetta,2010,Gasolina,Automatico,268128,Segunda mano,21700000
+Honda,Civic,2012,Gasolina,Manual,257112,Buen estado,22300000
+Chevrolet,Sail,2005,Gasolina,Manual,355557,Medio estado,8400000
+Kia,Sportage,2020,Gasolina,Automatico,121475,Medio estado,59400000
+Volkswagen,Tiguan,2026,Gasolina,Automatico,2816,Buen estado,202000000
+Kia,Seltos,2026,Gasolina,Automatico,0,Nuevo 0 km,113000000
+Chevrolet,Onix,2014,Gasolina,Manual,171139,Medio estado,12900000
+Chevrolet,Joy,2012,Gasolina,Manual,225038,Medio estado,8800000
+Chevrolet,Joy,2024,Gasolina,Manual,40397,Buen estado,38700000
+Honda,CR-V,2024,Gasolina,Automatico,50390,Buen estado,157500000
+Honda,City,2024,Gasolina,Automatico,21335,Buen estado,76300000
+Kia,Seltos,2025,Gasolina,Automatico,21671,Buen estado,90600000
+Nissan,X-Trail,2011,Gasolina,Automatico,186249,Buen estado,31200000
+Kia,Seltos,2024,Gasolina,Automatico,11182,Buen estado,84800000
+Kia,Seltos,2021,Gasolina,Automatico,83688,Segunda mano,55200000
+Toyota,RAV4,2020,Gasolina,Automatico,77452,Segunda mano,112500000
+Kia,Cerato,2026,Gasolina,Automatico,10977,Buen estado,104800000
+Volkswagen,Jetta,2006,Gasolina,Manual,331750,Medio estado,18000000
+Ford,EcoSport,2015,Gasolina,Automatico,169640,Segunda mano,21100000
+Kia,Picanto,2021,Gasolina,Automatico,62365,Medio estado,23100000
+Kia,Rio,2018,Gasolina,Automatico,107314,Medio estado,26600000
+Renault,Koleos,2023,Diesel,Automatico,52166,Buen estado,108600000
+Kia,Rio,2009,Gasolina,Manual,303747,Segunda mano,11800000
+Mazda,CX-5,2006,Diesel,Automatico,271968,Segunda mano,32500000
+Ford,EcoSport,2014,Gasolina,Automatico,183580,Medio estado,19000000
+Ford,Explorer,2020,Diesel,Manual,86912,Segunda mano,161200000
+Nissan,Versa,2014,Gasolina,Manual,192583,Buen estado,15500000
+Nissan,Kicks,2025,Gasolina,Automatico,0,Nuevo 0 km,98200000
+Chevrolet,Onix,2006,Gasolina,Automatico,294808,Segunda mano,12100000
+Volkswagen,Gol,2010,Gasolina,Manual,263107,Medio estado,8200000
+Ford,Ranger,2015,Diesel,Manual,150142,Medio estado,68500000
+Toyota,Hilux,2021,Diesel,Manual,66595,Segunda mano,146500000
+Chevrolet,Tracker,2010,Gasolina,Automatico,239685,Medio estado,16100000
+Mazda,Mazda 2,2020,Gasolina,Manual,62736,Buen estado,39500000
+Honda,HR-V,2009,Gasolina,Manual,277993,Buen estado,23600000
+Nissan,X-Trail,2024,Gasolina,Automatico,22008,Buen estado,135800000
+Renault,Sandero,2025,Gasolina,Manual,2402,Buen estado,59300000
+Chevrolet,Tracker,2021,Gasolina,Automatico,76925,Segunda mano,47400000
+Renault,Kwid,2021,Diesel,Manual,76798,Medio estado,19200000
+Renault,Duster,2025,Gasolina,Automatico,16617,Buen estado,79700000
+Kia,Sportage,2017,Gasolina,Automatico,114330,Segunda mano,41900000
+Nissan,Sentra,2025,Gasolina,Manual,28037,Buen estado,78400000
+Volkswagen,Gol,2020,Gasolina,Manual,91285,Buen estado,27600000
+Mazda,BT-50,2018,Diesel,Automatico,150106,Medio estado,70700000
+Ford,Fiesta,2022,Gasolina,Manual,60017,Segunda mano,41300000
+Ford,Explorer,2020,Gasolina,Manual,84036,Segunda mano,157500000
+Ford,Ranger,2007,Diesel,Manual,281309,Medio estado,36300000
+Honda,City,2013,Gasolina,Manual,138428,Medio estado,17200000
+Nissan,Versa,2009,Diesel,Automatico,241914,Medio estado,12100000
+Renault,Sandero,2009,Gasolina,Manual,275160,Medio estado,9400000
+Hyundai,Tucson,2006,Gasolina,Automatico,295304,Mal estado,18100000
+Toyota,Prado,2026,Diesel,Automatico,11357,Buen estado,411100000
+Nissan,Frontier,2020,Diesel,Manual,104622,Medio estado,88300000
+Nissan,Versa,2022,Diesel,Manual,67231,Buen estado,37800000
+Volkswagen,Tiguan,2022,Gasolina,Automatico,68767,Buen estado,104100000
+Renault,Duster,2016,Gasolina,Automatico,155335,Segunda mano,28700000
+Toyota,RAV4,2021,Gasolina,Automatico,65720,Segunda mano,132600000
+Hyundai,Elantra,2013,Gasolina,Manual,195159,Buen estado,20700000
+Toyota,Fortuner,2009,Gasolina,Automatico,215266,Segunda mano,57800000
+Mazda,CX-30,2022,Gasolina,Automatico,48090,Buen estado,92300000
+Honda,HR-V,2012,Gasolina,Manual,228832,Buen estado,25000000
+Kia,Cerato,2025,Gasolina,Automatico,28087,Buen estado,88700000
+Honda,Fit,2025,Gasolina,Manual,22327,Buen estado,58500000
+Nissan,Versa,2024,Diesel,Automatico,46543,Buen estado,54800000
+Kia,Rio,2025,Gasolina,Manual,1688,Buen estado,65900000
+Hyundai,Tucson,2018,Gasolina,Automatico,123975,Segunda mano,50000000
+Ford,EcoSport,2026,Diesel,Automatico,6768,Buen estado,83900000
+Renault,Logan,2019,Diesel,Manual,99006,Segunda mano,23700000
+Mazda,Mazda 3,2019,Gasolina,Automatico,106670,Buen estado,52000000
+Toyota,Yaris,2022,Gasolina,Automatico,56671,Segunda mano,42300000
+Honda,CR-V,2013,Gasolina,Automatico,180283,Segunda mano,58000000
+Mazda,CX-5,2025,Gasolina,Automatico,18818,Buen estado,158600000
+Hyundai,Accent,2026,Gasolina,Automatico,15662,Buen estado,81600000
+Renault,Stepway,2023,Gasolina,Automatico,59339,Buen estado,51300000
+Renault,Sandero,2009,Gasolina,Manual,286160,Medio estado,8400000
+Chevrolet,Captiva,2026,Gasolina,Automatico,14784,Buen estado,134200000
+Nissan,March,2006,Gasolina,Manual,278745,Segunda mano,9700000
+Renault,Logan,2026,Gasolina,Automatico,0,Nuevo 0 km,68900000
+Volkswagen,Polo,2016,Gasolina,Manual,116797,Buen estado,27600000
+Hyundai,Accent,2010,Gasolina,Manual,226984,Medio estado,12100000
+Hyundai,Accent,2023,Gasolina,Automatico,30579,Buen estado,57000000
+Honda,Fit,2018,Gasolina,Manual,96833,Medio estado,29400000
+Ford,Focus,2017,Gasolina,Automatico,125117,Buen estado,38100000
+Mazda,Mazda 3,2009,Gasolina,Automatico,229779,Buen estado,22900000
+Nissan,March,2006,Gasolina,Manual,251056,Segunda mano,10600000
+Toyota,Yaris,2010,Gasolina,Automatico,205919,Segunda mano,14300000
+Chevrolet,Onix,2009,Gasolina,Manual,295205,Segunda mano,10400000
+Renault,Koleos,2010,Diesel,Automatico,194015,Buen estado,33300000
+Volkswagen,Tiguan,2011,Gasolina,Automatico,250246,Medio estado,26500000
+Kia,Seltos,2020,Gasolina,Manual,57818,Segunda mano,54900000
+Chevrolet,Spark,2014,Gasolina,Manual,137852,Medio estado,10200000
+Hyundai,Elantra,2014,Gasolina,Manual,149548,Medio estado,21700000
+Hyundai,Creta,2008,Gasolina,Automatico,241628,Segunda mano,17600000
+Renault,Logan,2008,Gasolina,Automatico,294227,Medio estado,9100000
+Kia,Sportage,2015,Gasolina,Automatico,197368,Segunda mano,32700000
+Kia,Seltos,2025,Gasolina,Automatico,11789,Buen estado,100200000
+Nissan,Frontier,2010,Diesel,Automatico,269214,Segunda mano,45900000
+Honda,Fit,2016,Gasolina,Manual,164585,Buen estado,22900000
+Honda,HR-V,2011,Gasolina,Manual,240713,Segunda mano,21800000
+Toyota,Prado,2007,Gasolina,Automatico,245205,Segunda mano,79300000
+Honda,Accord,2012,Gasolina,Automatico,226536,Medio estado,24900000
+Mazda,Mazda 2,2022,Gasolina,Manual,71308,Buen estado,44100000
+Hyundai,Tucson,2019,Gasolina,Automatico,97284,Segunda mano,60500000
+Chevrolet,Joy,2008,Gasolina,Manual,229287,Segunda mano,10100000
+Ford,Escape,2026,Gasolina,Automatico,6540,Buen estado,150700000
+Toyota,RAV4,2013,Gasolina,Automatico,202477,Segunda mano,57800000
+Kia,Sorento,2020,Gasolina,Automatico,121198,Medio estado,104200000
+Ford,Fiesta,2022,Gasolina,Automatico,61129,Buen estado,44600000
+Honda,City,2011,Gasolina,Automatico,170311,Buen estado,21000000
+Nissan,Versa,2012,Gasolina,Manual,159525,Buen estado,13900000
+Honda,City,2024,Gasolina,Automatico,42941,Buen estado,73300000
+Hyundai,Santa Fe,2017,Diesel,Automatico,123945,Medio estado,93200000
+Ford,EcoSport,2010,Gasolina,Automatico,263409,Segunda mano,15700000
+Chevrolet,Spark,2012,Gasolina,Manual,272153,Medio estado,6600000
+Mazda,Mazda 2,2008,Gasolina,Manual,283962,Mal estado,9300000
+Mazda,Mazda 3,2011,Diesel,Automatico,271829,Segunda mano,17100000
+Hyundai,Santa Fe,2010,Diesel,Automatico,299172,Buen estado,47900000
+Nissan,Kicks,2026,Gasolina,Automatico,5407,Buen estado,97700000
+Kia,Rio,2020,Gasolina,Automatico,97119,Buen estado,38400000
+Honda,City,2012,Gasolina,Automatico,150894,Segunda mano,18500000
+Hyundai,Elantra,2023,Gasolina,Manual,37950,Buen estado,79200000
+Nissan,Sentra,2009,Gasolina,Automatico,283888,Medio estado,14400000
+Honda,Accord,2009,Gasolina,Manual,280757,Segunda mano,26600000
+Renault,Stepway,2011,Diesel,Automatico,226323,Medio estado,11700000
+Kia,Seltos,2023,Gasolina,Manual,66299,Buen estado,77000000
+Toyota,Yaris,2012,Gasolina,Manual,217484,Medio estado,9800000
+Chevrolet,Joy,2008,Gasolina,Manual,312401,Segunda mano,7900000
+Honda,Civic,2017,Gasolina,Automatico,160948,Buen estado,37700000
+Ford,Escape,2012,Gasolina,Automatico,169482,Segunda mano,26800000
+Chevrolet,Onix,2011,Gasolina,Manual,242227,Segunda mano,12500000
+Nissan,Frontier,2012,Gasolina,Automatico,187850,Medio estado,51400000
+Hyundai,Elantra,2008,Gasolina,Manual,299699,Medio estado,15600000
+Ford,Explorer,2017,Diesel,Automatico,161527,Buen estado,108800000
+Renault,Koleos,2021,Diesel,Automatico,67336,Buen estado,75700000
+Toyota,Corolla,2017,Gasolina,Automatico,131397,Medio estado,35700000
+Chevrolet,Spark,2023,Gasolina,Manual,54871,Buen estado,37600000
+Toyota,Fortuner,2026,Gasolina,Automatico,14897,Buen estado,268600000
+Toyota,Corolla,2006,Gasolina,Manual,383612,Medio estado,15300000
+Toyota,RAV4,2013,Gasolina,Automatico,177505,Medio estado,54500000
+Honda,Fit,2024,Gasolina,Manual,51858,Buen estado,51000000
+Chevrolet,Sail,2006,Gasolina,Manual,332672,Mal estado,6500000
+Chevrolet,Sail,2016,Gasolina,Manual,178235,Segunda mano,14600000
+Chevrolet,Sail,2009,Gasolina,Manual,255140,Medio estado,8700000
+Kia,Sorento,2004,Diesel,Automatico,410264,Mal estado,28600000
+Kia,Rio,2013,Gasolina,Manual,185604,Buen estado,16000000
+Nissan,Kicks,2015,Gasolina,Automatico,161926,Medio estado,25000000
+Renault,Koleos,2011,Gasolina,Automatico,210170,Segunda mano,26400000
+Renault,Logan,2019,Gasolina,Manual,78982,Medio estado,25900000
+Honda,CR-V,2012,Gasolina,Automatico,220226,Buen estado,56900000
+Ford,Fiesta,2023,Gasolina,Manual,36173,Buen estado,46700000
+Chevrolet,Spark,2025,Gasolina,Manual,20604,Buen estado,39800000
+Mazda,BT-50,2018,Diesel,Manual,112682,Segunda mano,87800000
+Kia,Sorento,2005,Diesel,Automatico,339807,Segunda mano,40200000
+Toyota,Yaris,2022,Gasolina,Automatico,60561,Buen estado,48500000
+Hyundai,Accent,2014,Gasolina,Manual,190252,Buen estado,16500000
+Ford,Fiesta,2018,Gasolina,Manual,96035,Buen estado,30300000
+Renault,Kwid,2021,Diesel,Manual,96040,Buen estado,22800000
+Chevrolet,Tracker,2011,Gasolina,Manual,256105,Segunda mano,16200000
+Toyota,Yaris,2025,Gasolina,Manual,11378,Buen estado,68600000
+Toyota,Fortuner,2026,Gasolina,Automatico,12815,Buen estado,257200000
+Honda,Fit,2021,Gasolina,Manual,81744,Buen estado,37900000
+Honda,Fit,2014,Gasolina,Manual,188864,Buen estado,16500000
+Toyota,Hilux,2012,Diesel,Automatico,213225,Segunda mano,62200000
+Hyundai,Tucson,2026,Gasolina,Automatico,0,Nuevo 0 km,132500000
+Renault,Stepway,2020,Gasolina,Automatico,81227,Medio estado,34900000
+Mazda,Mazda 6,2019,Gasolina,Manual,94708,Segunda mano,64000000
+Honda,Accord,2016,Gasolina,Automatico,155333,Segunda mano,49300000
+Mazda,BT-50,2009,Diesel,Manual,233136,Medio estado,28700000
+Toyota,Corolla,2024,Gasolina,Automatico,23225,Buen estado,94600000
+Mazda,Mazda 2,2026,Gasolina,Manual,798,Buen estado,67700000
+Honda,HR-V,2014,Gasolina,Automatico,129548,Buen estado,35700000
+Kia,Picanto,2017,Gasolina,Manual,129505,Medio estado,15700000
+Renault,Sandero,2009,Diesel,Manual,238191,Medio estado,9800000
+Kia,Cerato,2026,Gasolina,Automatico,0,Nuevo 0 km,102400000
+Ford,Escape,2015,Gasolina,Automatico,222832,Buen estado,35500000
+Honda,Civic,2017,Gasolina,Manual,153924,Medio estado,37000000
+Chevrolet,Spark,2013,Gasolina,Manual,197927,Segunda mano,8700000
+Chevrolet,Captiva,2007,Gasolina,Automatico,313742,Segunda mano,21800000
+Chevrolet,Onix,2009,Gasolina,Manual,276478,Buen estado,12500000
+Hyundai,i10,2016,Gasolina,Automatico,183515,Segunda mano,13800000
+Chevrolet,Sail,2009,Gasolina,Manual,271822,Medio estado,8700000
+Mazda,CX-30,2023,Gasolina,Automatico,50862,Buen estado,108700000
+Kia,Picanto,2014,Gasolina,Automatico,159371,Segunda mano,14000000
+Honda,HR-V,2012,Gasolina,Automatico,272144,Buen estado,22800000
+Volkswagen,Gol,2011,Gasolina,Automatico,246004,Buen estado,9700000
+Hyundai,Tucson,2023,Gasolina,Automatico,53021,Buen estado,94800000
+Toyota,Fortuner,2023,Gasolina,Automatico,67648,Buen estado,182200000
+Chevrolet,Tracker,2020,Gasolina,Manual,68891,Segunda mano,44400000
+Nissan,Sentra,2025,Gasolina,Automatico,9031,Buen estado,84000000
+Mazda,BT-50,2024,Diesel,Automatico,38137,Buen estado,150400000
+Honda,Fit,2018,Gasolina,Manual,124861,Medio estado,25100000
+Renault,Logan,2026,Diesel,Automatico,8705,Buen estado,61500000
+Volkswagen,Amarok,2013,Diesel,Automatico,202107,Medio estado,55700000
+Toyota,RAV4,2013,Gasolina,Automatico,180812,Medio estado,55600000
+Mazda,CX-30,2009,Gasolina,Automatico,221245,Medio estado,27800000
+Toyota,Fortuner,2008,Gasolina,Automatico,316379,Medio estado,39000000
+Mazda,CX-30,2025,Gasolina,Automatico,19937,Buen estado,131300000
+Hyundai,Accent,2026,Gasolina,Manual,3327,Buen estado,76900000
+Nissan,Versa,2007,Diesel,Automatico,297964,Mal estado,8700000
+Chevrolet,Spark,2022,Gasolina,Manual,70251,Segunda mano,25100000
+Hyundai,Elantra,2010,Gasolina,Manual,297120,Segunda mano,16500000
+Volkswagen,Amarok,2025,Gasolina,Manual,0,Nuevo 0 km,200600000
+Mazda,Mazda 2,2025,Gasolina,Manual,21079,Buen estado,62100000
+Nissan,Frontier,2022,Diesel,Automatico,37017,Buen estado,151400000
+Renault,Koleos,2011,Gasolina,Automatico,223955,Medio estado,22700000
+Chevrolet,Spark,2018,Gasolina,Automatico,133593,Medio estado,17400000
+Chevrolet,Sail,2024,Gasolina,Manual,36423,Buen estado,45800000
+Nissan,Frontier,2011,Diesel,Manual,204442,Segunda mano,47500000
+Honda,City,2007,Gasolina,Automatico,273395,Segunda mano,15800000
+Volkswagen,Tiguan,2024,Gasolina,Automatico,53703,Buen estado,113700000
+Ford,Focus,2010,Gasolina,Manual,251410,Buen estado,15600000
+Toyota,Fortuner,2014,Gasolina,Automatico,180022,Medio estado,75400000
+Chevrolet,Sail,2018,Gasolina,Manual,115930,Medio estado,17200000
+Ford,Ranger,2020,Diesel,Automatico,99060,Buen estado,126900000
+Nissan,Frontier,2021,Diesel,Manual,104947,Buen estado,131400000
+Toyota,Yaris,2013,Gasolina,Manual,144246,Segunda mano,14200000
+Renault,Sandero,2024,Gasolina,Manual,24208,Buen estado,46800000
+Mazda,Mazda 2,2015,Gasolina,Manual,158562,Segunda mano,19100000
+Renault,Sandero,2009,Gasolina,Manual,215943,Medio estado,11800000
+Chevrolet,Captiva,2024,Gasolina,Automatico,34198,Buen estado,93700000
+Volkswagen,Amarok,2010,Diesel,Automatico,202806,Buen estado,55900000
+Renault,Duster,2026,Gasolina,Automatico,2058,Buen estado,109700000
+Ford,Fiesta,2023,Gasolina,Manual,40677,Buen estado,44400000
+Chevrolet,Captiva,2024,Gasolina,Automatico,35639,Buen estado,93100000
+Renault,Duster,2023,Gasolina,Automatico,40734,Buen estado,67400000
+Honda,Civic,2012,Gasolina,Manual,198583,Medio estado,20600000
+Chevrolet,Tracker,2012,Gasolina,Manual,190555,Buen estado,19800000
+Honda,Accord,2014,Gasolina,Automatico,167353,Buen estado,40100000
+Mazda,Mazda 3,2009,Gasolina,Automatico,253131,Buen estado,19400000
+Hyundai,i10,2024,Gasolina,Automatico,26748,Buen estado,42300000
+Renault,Duster,2026,Gasolina,Automatico,12604,Buen estado,92800000
+Nissan,Kicks,2007,Gasolina,Automatico,350519,Medio estado,15400000
+Renault,Duster,2025,Gasolina,Automatico,3982,Buen estado,86300000
+Chevrolet,Onix,2008,Gasolina,Automatico,250250,Segunda mano,12500000
+Renault,Stepway,2016,Gasolina,Manual,160659,Medio estado,19600000
+Honda,Fit,2022,Gasolina,Manual,64153,Segunda mano,45300000
+Renault,Logan,2026,Gasolina,Manual,11153,Buen estado,62100000
+Toyota,Corolla,2012,Gasolina,Automatico,243918,Medio estado,16700000
+Kia,Rio,2026,Gasolina,Manual,11100,Buen estado,75600000
+Honda,Accord,2008,Gasolina,Automatico,201858,Medio estado,28500000
+Honda,Civic,2011,Gasolina,Manual,264908,Buen estado,21700000
+Nissan,X-Trail,2024,Gasolina,Automatico,19725,Buen estado,126200000
+Nissan,March,2004,Gasolina,Manual,334209,Medio estado,8900000
+Honda,Accord,2018,Gasolina,Automatico,89155,Segunda mano,60700000
+Mazda,BT-50,2006,Diesel,Automatico,298786,Medio estado,27300000
+Ford,EcoSport,2023,Gasolina,Manual,43331,Buen estado,65400000
+Hyundai,Accent,2016,Gasolina,Automatico,149045,Segunda mano,22200000
+Hyundai,Santa Fe,2005,Diesel,Automatico,284673,Segunda mano,42300000
+Volkswagen,Amarok,2005,Gasolina,Automatico,335682,Mal estado,29500000
+Hyundai,Tucson,2022,Gasolina,Automatico,65140,Buen estado,86000000
+Honda,Fit,2016,Gasolina,Manual,190821,Segunda mano,19200000
+Renault,Koleos,2015,Gasolina,Automatico,182348,Buen estado,39800000
+Honda,CR-V,2012,Gasolina,Automatico,167713,Medio estado,49100000
+Kia,Cerato,2024,Gasolina,Automatico,33168,Buen estado,83200000
+Kia,Seltos,2024,Gasolina,Manual,22021,Buen estado,84900000
+Honda,City,2025,Gasolina,Manual,34776,Buen estado,70300000
+Mazda,Mazda 6,2010,Gasolina,Automatico,204967,Medio estado,30900000
+Toyota,Prado,2018,Diesel,Automatico,118647,Buen estado,193500000
+Volkswagen,Polo,2019,Gasolina,Manual,96084,Buen estado,31900000
+Toyota,Hilux,2026,Diesel,Automatico,5764,Buen estado,261300000
+Chevrolet,Spark,2025,Gasolina,Manual,0,Nuevo 0 km,51200000
+Mazda,CX-5,2022,Diesel,Automatico,74558,Segunda mano,94500000
+Mazda,Mazda 6,2015,Gasolina,Automatico,187456,Segunda mano,34900000
+Renault,Logan,2012,Diesel,Manual,204444,Buen estado,10800000
+Chevrolet,Captiva,2026,Gasolina,Automatico,11098,Buen estado,124700000
+Hyundai,Accent,2007,Gasolina,Automatico,313387,Medio estado,11500000
+Renault,Koleos,2017,Gasolina,Automatico,162539,Medio estado,40300000
+Nissan,Versa,2009,Gasolina,Automatico,277731,Buen estado,12500000
+Chevrolet,Sail,2020,Gasolina,Manual,85558,Buen estado,27500000
+Chevrolet,Tracker,2016,Gasolina,Manual,173424,Segunda mano,24300000
+Volkswagen,Jetta,2011,Gasolina,Manual,185239,Medio estado,21600000
+Nissan,Frontier,2015,Diesel,Manual,169760,Segunda mano,75200000
+Hyundai,Santa Fe,2006,Diesel,Automatico,258366,Segunda mano,45500000
+Honda,Accord,2012,Gasolina,Automatico,209530,Segunda mano,28000000
+Hyundai,Tucson,2005,Gasolina,Automatico,338509,Mal estado,17800000
+Renault,Kwid,2012,Diesel,Manual,185039,Medio estado,7600000
+Renault,Stepway,2024,Diesel,Manual,37145,Buen estado,50600000
+Renault,Logan,2019,Gasolina,Manual,105819,Medio estado,23400000
+Hyundai,Tucson,2023,Gasolina,Automatico,46478,Buen estado,98300000
+Toyota,RAV4,2010,Gasolina,Automatico,302921,Medio estado,37400000
+Chevrolet,Joy,2006,Gasolina,Manual,341884,Mal estado,6100000
+Toyota,RAV4,2020,Gasolina,Automatico,110498,Segunda mano,112600000
+Toyota,Corolla,2025,Gasolina,Automatico,10215,Buen estado,104500000
+Honda,City,2015,Gasolina,Automatico,208898,Medio estado,19100000
+Chevrolet,Joy,2026,Gasolina,Manual,7455,Buen estado,52100000
+Ford,EcoSport,2023,Gasolina,Automatico,45162,Buen estado,61600000
+Hyundai,Elantra,2008,Gasolina,Manual,319892,Mal estado,12900000
+Volkswagen,Jetta,2017,Gasolina,Manual,157792,Segunda mano,38800000
+Ford,Ranger,2004,Diesel,Manual,323293,Mal estado,27100000
+Toyota,Prado,2025,Diesel,Automatico,28653,Buen estado,348500000
+Ford,Fiesta,2024,Gasolina,Manual,28841,Buen estado,54900000
+Volkswagen,Gol,2026,Gasolina,Manual,16320,Buen estado,50300000
+Nissan,Kicks,2026,Gasolina,Automatico,7776,Buen estado,100200000
+Honda,City,2020,Gasolina,Automatico,86644,Medio estado,37500000
+Volkswagen,Jetta,2018,Gasolina,Automatico,124742,Medio estado,36900000
+Hyundai,Elantra,2008,Gasolina,Manual,288565,Medio estado,15200000
+Chevrolet,Onix,2024,Gasolina,Automatico,17815,Buen estado,60300000
+Nissan,Frontier,2020,Diesel,Automatico,61262,Medio estado,107000000
+Nissan,Sentra,2022,Gasolina,Automatico,62755,Medio estado,45500000
+Toyota,Hilux,2024,Diesel,Manual,45995,Buen estado,193600000
+Honda,Accord,2018,Gasolina,Manual,109157,Buen estado,62700000
+Nissan,Frontier,2020,Diesel,Manual,104025,Segunda mano,100000000
+Kia,Picanto,2022,Gasolina,Automatico,47417,Buen estado,31500000
+Nissan,Versa,2005,Gasolina,Manual,315310,Medio estado,11300000
+Kia,Sorento,2020,Gasolina,Automatico,106585,Medio estado,117700000
+Honda,Civic,2003,Gasolina,Manual,328115,Medio estado,24700000
+Renault,Sandero,2024,Diesel,Manual,23671,Buen estado,49000000
+Kia,Seltos,2008,Gasolina,Automatico,331661,Mal estado,13300000
+Ford,EcoSport,2023,Gasolina,Manual,43797,Buen estado,61900000
+Volkswagen,Tiguan,2024,Gasolina,Automatico,46183,Buen estado,140300000
+Mazda,CX-30,2016,Gasolina,Automatico,172848,Medio estado,39900000
+Mazda,Mazda 6,2005,Gasolina,Automatico,290960,Segunda mano,32300000
+Mazda,BT-50,2024,Diesel,Automatico,28624,Buen estado,149400000
+Honda,Civic,2010,Gasolina,Manual,278754,Buen estado,20900000
+Nissan,Frontier,2020,Diesel,Manual,88559,Medio estado,97200000
+Nissan,Frontier,2018,Diesel,Manual,156179,Buen estado,90800000
+Honda,Fit,2006,Gasolina,Manual,237586,Segunda mano,16100000
+Renault,Stepway,2011,Gasolina,Automatico,264972,Segunda mano,11900000
+Volkswagen,Polo,2018,Gasolina,Manual,90199,Segunda mano,31600000
+Mazda,CX-5,2016,Diesel,Automatico,127571,Segunda mano,51400000
+Renault,Stepway,2021,Gasolina,Manual,58152,Medio estado,36600000
+Toyota,Hilux,2013,Diesel,Automatico,163174,Buen estado,80100000
+Renault,Duster,2026,Gasolina,Automatico,11199,Buen estado,84200000
+Honda,Accord,2013,Gasolina,Automatico,243519,Segunda mano,27600000
+Kia,Sorento,2004,Diesel,Automatico,311510,Mal estado,32300000
+Honda,CR-V,2023,Gasolina,Automatico,48169,Buen estado,128700000
+Mazda,Mazda 6,2006,Gasolina,Manual,316594,Segunda mano,24900000
+Hyundai,Accent,2026,Gasolina,Manual,68,Buen estado,71000000
+Ford,EcoSport,2008,Diesel,Manual,336196,Mal estado,9700000
+Nissan,March,2016,Gasolina,Manual,154320,Medio estado,15100000
+Chevrolet,Captiva,2025,Gasolina,Automatico,4338,Buen estado,116100000
+Kia,Sorento,2023,Diesel,Automatico,57928,Buen estado,172900000
+Hyundai,Tucson,2026,Gasolina,Automatico,13084,Buen estado,141000000
+Renault,Sandero,2006,Gasolina,Manual,306164,Mal estado,8400000
+Kia,Rio,2006,Gasolina,Automatico,311390,Segunda mano,12300000
+Honda,City,2026,Gasolina,Automatico,8761,Buen estado,82100000
+Nissan,March,2014,Gasolina,Manual,157216,Buen estado,13800000
+Renault,Kwid,2016,Gasolina,Manual,174689,Medio estado,10900000
+Mazda,Mazda 2,2007,Gasolina,Manual,356230,Mal estado,8600000
+Mazda,BT-50,2018,Diesel,Manual,140082,Buen estado,80200000
+Renault,Sandero,2025,Gasolina,Manual,12394,Buen estado,57600000
+Hyundai,Santa Fe,2017,Diesel,Automatico,144233,Segunda mano,89900000
+Toyota,Fortuner,2025,Gasolina,Automatico,28627,Buen estado,238600000
+Mazda,BT-50,2021,Gasolina,Automatico,79136,Segunda mano,102600000
+Mazda,Mazda 6,2018,Gasolina,Manual,111972,Segunda mano,54100000
+Kia,Sportage,2014,Gasolina,Automatico,156327,Medio estado,28400000
+Volkswagen,Polo,2017,Gasolina,Manual,133803,Segunda mano,28100000
+Toyota,Yaris,2012,Gasolina,Automatico,269915,Buen estado,11300000
+Mazda,BT-50,2023,Diesel,Automatico,61899,Buen estado,126800000
+Nissan,March,2014,Gasolina,Manual,235311,Buen estado,11200000
+Toyota,RAV4,2013,Gasolina,Automatico,218356,Segunda mano,56000000
+Chevrolet,Onix,2024,Gasolina,Automatico,37497,Buen estado,48900000
+Nissan,X-Trail,2009,Gasolina,Automatico,332701,Segunda mano,22600000
+Volkswagen,Tiguan,2024,Gasolina,Automatico,33993,Buen estado,129900000
+Nissan,Versa,2010,Diesel,Automatico,229920,Segunda mano,13100000
+Chevrolet,Onix,2007,Gasolina,Manual,313372,Mal estado,8700000
+Chevrolet,Joy,2009,Gasolina,Manual,246322,Segunda mano,9500000
+Kia,Picanto,2024,Gasolina,Automatico,40095,Buen estado,38700000
+Honda,HR-V,2020,Gasolina,Manual,92599,Buen estado,62500000
+Chevrolet,Joy,2006,Gasolina,Automatico,226328,Mal estado,8300000
+Renault,Sandero,2026,Gasolina,Manual,11957,Buen estado,60600000
+Mazda,Mazda 2,2025,Gasolina,Manual,25224,Buen estado,67100000
+Hyundai,Elantra,2013,Gasolina,Automatico,226408,Medio estado,19000000
+Nissan,Kicks,2026,Gasolina,Automatico,17216,Buen estado,101800000
+Hyundai,Elantra,2017,Gasolina,Manual,119746,Medio estado,33700000
+Volkswagen,Jetta,2011,Gasolina,Manual,180672,Buen estado,25000000
+Nissan,Versa,2025,Gasolina,Automatico,14779,Buen estado,65700000
+Hyundai,i10,2005,Gasolina,Manual,302591,Mal estado,6000000
+Kia,Rio,2022,Gasolina,Manual,48394,Segunda mano,39200000
+Nissan,Kicks,2016,Gasolina,Automatico,136747,Segunda mano,31800000
+Kia,Sportage,2024,Gasolina,Automatico,30674,Buen estado,122300000
+Nissan,Frontier,2021,Diesel,Automatico,90529,Medio estado,103600000
+Hyundai,Accent,2008,Gasolina,Automatico,338516,Mal estado,7800000
+Ford,EcoSport,2013,Gasolina,Manual,214567,Segunda mano,16800000
+Kia,Sportage,2010,Gasolina,Automatico,203001,Buen estado,30100000
+Volkswagen,Jetta,2003,Gasolina,Manual,377447,Mal estado,16100000
+Toyota,Yaris,2019,Gasolina,Automatico,128650,Buen estado,30300000
+Ford,Explorer,2012,Gasolina,Manual,226027,Buen estado,68100000
+Honda,HR-V,2022,Gasolina,Manual,65402,Buen estado,80400000
+Honda,HR-V,2009,Gasolina,Manual,218976,Buen estado,27300000
+Kia,Sportage,2015,Gasolina,Automatico,145816,Segunda mano,37000000
+Honda,Fit,2025,Gasolina,Manual,17164,Buen estado,62200000
+Toyota,Hilux,2022,Diesel,Automatico,77010,Buen estado,179500000
+Nissan,Kicks,2024,Gasolina,Automatico,14023,Buen estado,93900000
+Hyundai,Santa Fe,2008,Diesel,Automatico,235356,Medio estado,44700000
+Volkswagen,Polo,2008,Gasolina,Manual,199556,Segunda mano,15800000
+Toyota,Fortuner,2026,Diesel,Automatico,8054,Buen estado,293600000
+Kia,Seltos,2024,Gasolina,Manual,23289,Buen estado,90900000
+Hyundai,Creta,2013,Gasolina,Automatico,199405,Segunda mano,21600000
+Toyota,RAV4,2012,Gasolina,Automatico,237141,Buen estado,53600000
+Renault,Kwid,2017,Diesel,Manual,120295,Segunda mano,14800000
+Ford,Focus,2012,Gasolina,Manual,254374,Buen estado,16300000
+Renault,Kwid,2020,Gasolina,Manual,65143,Segunda mano,22500000
+Chevrolet,Tracker,2016,Gasolina,Automatico,162095,Segunda mano,28900000
+Ford,Focus,2005,Gasolina,Automatico,342934,Segunda mano,14300000
+Honda,Civic,2011,Gasolina,Manual,226044,Medio estado,20600000
+Chevrolet,Spark,2009,Gasolina,Manual,196042,Medio estado,8400000
+Mazda,CX-5,2008,Gasolina,Automatico,262027,Mal estado,21600000
+Volkswagen,Gol,2018,Gasolina,Automatico,110118,Medio estado,21400000
+Honda,Civic,2020,Gasolina,Manual,118175,Segunda mano,61900000
+Honda,City,2022,Gasolina,Automatico,71708,Buen estado,57300000
+Mazda,CX-30,2022,Gasolina,Automatico,36466,Medio estado,90100000
+Nissan,Versa,2007,Diesel,Automatico,281084,Mal estado,9700000
+Nissan,Versa,2014,Gasolina,Automatico,217671,Medio estado,13200000
+Chevrolet,Onix,2023,Gasolina,Manual,57728,Buen estado,47800000
+Mazda,Mazda 6,2017,Gasolina,Automatico,133105,Segunda mano,49500000
+Toyota,Yaris,2012,Gasolina,Manual,192077,Buen estado,13500000
+Renault,Duster,2014,Gasolina,Automatico,170778,Medio estado,20600000
+Ford,Fiesta,2021,Gasolina,Automatico,65163,Medio estado,32900000
+Ford,Escape,2012,Gasolina,Automatico,212876,Segunda mano,26500000
+Nissan,Frontier,2022,Gasolina,Automatico,60026,Buen estado,134800000
+Hyundai,Tucson,2021,Gasolina,Automatico,87483,Segunda mano,81400000
+Honda,Fit,2021,Gasolina,Manual,64670,Buen estado,43900000
+Hyundai,Accent,2023,Gasolina,Manual,43311,Buen estado,52200000
+Renault,Kwid,2019,Gasolina,Manual,104377,Buen estado,19400000
+Honda,Accord,2007,Gasolina,Automatico,320569,Mal estado,20000000
+Honda,Accord,2012,Gasolina,Automatico,247370,Segunda mano,26000000
+Mazda,BT-50,2026,Diesel,Automatico,0,Nuevo 0 km,174000000
+Hyundai,Accent,2023,Gasolina,Automatico,40602,Buen estado,54100000
+Renault,Sandero,2026,Gasolina,Manual,896,Buen estado,59200000
+Honda,Accord,2006,Gasolina,Automatico,303457,Segunda mano,26200000
+Ford,Escape,2012,Gasolina,Automatico,209450,Medio estado,25600000
+Mazda,Mazda 3,2025,Gasolina,Manual,17505,Buen estado,103600000
+Nissan,Sentra,2014,Gasolina,Automatico,213847,Medio estado,16700000
+Toyota,Prado,2014,Diesel,Automatico,183742,Medio estado,122000000
+Honda,HR-V,2021,Gasolina,Manual,67665,Buen estado,82000000
+Ford,Ranger,2004,Gasolina,Automatico,390061,Medio estado,30800000
+Volkswagen,Polo,2012,Gasolina,Manual,208728,Buen estado,16400000
+Honda,Civic,2026,Gasolina,Automatico,349,Buen estado,135400000
+Toyota,Hilux,2016,Diesel,Automatico,150196,Medio estado,78200000
+Toyota,RAV4,2008,Gasolina,Automatico,288224,Segunda mano,30900000
+Mazda,CX-5,2023,Diesel,Automatico,37144,Buen estado,123500000
+Kia,Picanto,2005,Gasolina,Manual,251385,Medio estado,9700000
+Kia,Rio,2016,Gasolina,Manual,131953,Segunda mano,23600000
+Chevrolet,Spark,2018,Gasolina,Automatico,131573,Segunda mano,18600000
+Renault,Logan,2025,Gasolina,Manual,30521,Buen estado,52600000
+Mazda,CX-30,2025,Gasolina,Automatico,20382,Buen estado,126600000
+Renault,Stepway,2017,Gasolina,Manual,176580,Segunda mano,21200000
+Mazda,CX-5,2006,Gasolina,Automatico,292582,Segunda mano,31100000
+Volkswagen,Gol,2015,Gasolina,Manual,126373,Medio estado,13600000
+Mazda,Mazda 6,2020,Gasolina,Manual,68713,Segunda mano,73900000
+Ford,Escape,2017,Gasolina,Automatico,167767,Buen estado,49100000
+Volkswagen,Gol,2011,Gasolina,Manual,243067,Medio estado,8100000
+Chevrolet,Joy,2023,Gasolina,Manual,34789,Buen estado,35500000
+Hyundai,Accent,2008,Gasolina,Manual,300817,Mal estado,9300000
+Nissan,Frontier,2026,Diesel,Automatico,3012,Buen estado,201200000
+Hyundai,Elantra,2020,Gasolina,Manual,97755,Buen estado,52700000
+Renault,Stepway,2016,Gasolina,Automatico,172770,Buen estado,22200000
+Ford,Focus,2012,Gasolina,Automatico,191338,Buen estado,17400000
+Nissan,Versa,2015,Gasolina,Automatico,197054,Buen estado,16700000
+Chevrolet,Captiva,2014,Diesel,Automatico,150429,Segunda mano,34800000
+Hyundai,i10,2012,Diesel,Automatico,175771,Medio estado,8100000
+Hyundai,Accent,2025,Gasolina,Automatico,20852,Buen estado,60000000
+Nissan,Kicks,2008,Gasolina,Automatico,320504,Mal estado,10800000
+Mazda,CX-30,2025,Gasolina,Automatico,0,Nuevo 0 km,142900000
+Hyundai,Creta,2012,Gasolina,Manual,262727,Buen estado,16900000
+Kia,Sportage,2024,Gasolina,Automatico,21814,Buen estado,115300000
+Hyundai,Tucson,2019,Gasolina,Automatico,118325,Buen estado,64700000
+Chevrolet,Sail,2009,Gasolina,Automatico,251317,Medio estado,7800000
+Kia,Cerato,2011,Gasolina,Automatico,173611,Buen estado,21500000
+Ford,Ranger,2005,Gasolina,Automatico,328197,Mal estado,28800000
+Volkswagen,Tiguan,2024,Gasolina,Automatico,49383,Buen estado,124000000
+Ford,Focus,2024,Gasolina,Automatico,24995,Buen estado,76500000
+Renault,Logan,2016,Gasolina,Manual,180710,Medio estado,14400000
+Chevrolet,Tracker,2024,Gasolina,Manual,44619,Buen estado,71900000
+Hyundai,Creta,2015,Gasolina,Manual,217030,Segunda mano,22800000
+Honda,HR-V,2009,Gasolina,Manual,273062,Buen estado,26400000
+Nissan,March,2014,Gasolina,Manual,215865,Medio estado,11500000
+Honda,Civic,2009,Diesel,Manual,200386,Medio estado,22100000
+Volkswagen,Amarok,2009,Gasolina,Manual,272115,Medio estado,40200000
+Toyota,Fortuner,2025,Gasolina,Automatico,15289,Buen estado,246400000
+Ford,Fiesta,2022,Gasolina,Manual,38262,Medio estado,44000000
+Honda,CR-V,2022,Gasolina,Automatico,58220,Segunda mano,128500000
+Kia,Sportage,2007,Gasolina,Automatico,243685,Medio estado,25500000
+Mazda,CX-30,2023,Gasolina,Automatico,49648,Buen estado,109400000
+Kia,Rio,2024,Gasolina,Manual,45401,Buen estado,68700000
+Kia,Sorento,2015,Diesel,Automatico,191179,Medio estado,77800000
+Nissan,Kicks,2026,Gasolina,Automatico,398,Buen estado,99600000
+Renault,Kwid,2020,Diesel,Manual,93638,Buen estado,22100000
+Hyundai,i10,2008,Diesel,Manual,215273,Segunda mano,9200000
+Ford,Explorer,2024,Diesel,Automatico,20527,Buen estado,242100000
+Ford,Fiesta,2023,Gasolina,Manual,36395,Buen estado,52200000
+Nissan,Versa,2025,Gasolina,Automatico,14564,Buen estado,62800000
+Honda,Civic,2024,Gasolina,Manual,36076,Buen estado,102200000
+Chevrolet,Joy,2023,Gasolina,Automatico,58508,Buen estado,36400000
+Nissan,March,2017,Gasolina,Manual,114190,Buen estado,19600000
+Renault,Duster,2026,Gasolina,Automatico,9381,Buen estado,99300000
+Chevrolet,Captiva,2025,Gasolina,Automatico,20193,Buen estado,101300000
+Kia,Cerato,2014,Gasolina,Automatico,197864,Buen estado,24000000
+Hyundai,i10,2024,Diesel,Manual,28509,Buen estado,35900000
+Renault,Kwid,2022,Gasolina,Manual,62388,Buen estado,25200000
+Kia,Sorento,2019,Diesel,Automatico,146811,Medio estado,103800000
+Nissan,Sentra,2010,Gasolina,Automatico,195262,Segunda mano,18700000
+Hyundai,Accent,2026,Gasolina,Automatico,345,Buen estado,74800000
+Volkswagen,Amarok,2015,Gasolina,Automatico,204465,Segunda mano,70900000
+Nissan,Kicks,2009,Gasolina,Automatico,324384,Mal estado,10700000
+Renault,Koleos,2014,Diesel,Automatico,144349,Buen estado,39900000
+Mazda,CX-5,2008,Gasolina,Automatico,201573,Mal estado,25400000
+Ford,Explorer,2024,Gasolina,Automatico,45310,Buen estado,224200000
+Volkswagen,Jetta,2009,Gasolina,Manual,220123,Buen estado,23700000
+Renault,Duster,2026,Gasolina,Automatico,6442,Buen estado,91700000
+Mazda,CX-5,2023,Diesel,Automatico,44575,Buen estado,124300000
+Toyota,Prado,2022,Diesel,Automatico,59848,Segunda mano,285700000
+Nissan,Frontier,2021,Diesel,Automatico,65276,Segunda mano,112200000
+Honda,CR-V,2024,Diesel,Automatico,27859,Buen estado,153500000
+Nissan,March,2007,Gasolina,Manual,348838,Mal estado,6200000
+Nissan,Kicks,2023,Gasolina,Automatico,62550,Buen estado,68400000
+Mazda,Mazda 6,2018,Gasolina,Manual,97147,Medio estado,55400000
+Kia,Picanto,2022,Gasolina,Manual,56661,Segunda mano,30500000
+Honda,HR-V,2011,Gasolina,Manual,171433,Medio estado,25300000
+Toyota,Yaris,2022,Gasolina,Automatico,61268,Segunda mano,44800000
+Volkswagen,Polo,2004,Gasolina,Manual,278752,Medio estado,14100000
+Kia,Picanto,2014,Gasolina,Automatico,192639,Segunda mano,10800000
+Chevrolet,Tracker,2026,Gasolina,Automatico,14524,Buen estado,94300000
+Toyota,Yaris,2010,Gasolina,Automatico,252344,Medio estado,11400000
+Ford,Fiesta,2022,Gasolina,Manual,70065,Segunda mano,43000000
+Nissan,Frontier,2020,Diesel,Automatico,84824,Medio estado,102200000
+Hyundai,Santa Fe,2010,Diesel,Automatico,286160,Segunda mano,39200000
+Ford,Explorer,2008,Diesel,Automatico,195061,Medio estado,49300000
+Volkswagen,Tiguan,2019,Gasolina,Automatico,100979,Medio estado,63500000
+Nissan,Frontier,2022,Diesel,Automatico,62465,Segunda mano,130000000
+Renault,Kwid,2019,Gasolina,Manual,96653,Segunda mano,18100000
+Chevrolet,Tracker,2007,Gasolina,Automatico,293159,Segunda mano,17500000
+Hyundai,Santa Fe,2008,Diesel,Automatico,297061,Medio estado,35800000
+Ford,Explorer,2018,Diesel,Automatico,139701,Segunda mano,134300000
+Toyota,Hilux,2025,Diesel,Manual,0,Nuevo 0 km,208600000
+Kia,Cerato,2018,Gasolina,Automatico,123154,Buen estado,36900000
+Honda,Civic,2009,Gasolina,Manual,250211,Segunda mano,23100000
+Ford,Escape,2017,Gasolina,Automatico,107285,Medio estado,44300000
+Kia,Sorento,2024,Diesel,Automatico,32306,Buen estado,211800000
+Kia,Picanto,2012,Gasolina,Automatico,176601,Medio estado,9300000
+Honda,CR-V,2021,Gasolina,Automatico,68181,Segunda mano,117900000
+Kia,Sorento,2005,Diesel,Automatico,281045,Mal estado,38600000
+Kia,Cerato,2026,Gasolina,Automatico,1127,Buen estado,99900000
+Hyundai,Tucson,2024,Gasolina,Automatico,23222,Buen estado,131000000
+Hyundai,Accent,2021,Gasolina,Automatico,83204,Medio estado,36100000
+Mazda,Mazda 2,2022,Gasolina,Automatico,59471,Buen estado,44400000
+Toyota,RAV4,2016,Gasolina,Automatico,127067,Buen estado,81300000
+Renault,Sandero,2023,Gasolina,Manual,64593,Buen estado,38600000
+Honda,HR-V,2025,Gasolina,Automatico,22349,Buen estado,121200000
+Renault,Stepway,2025,Gasolina,Automatico,14251,Buen estado,70800000
+Chevrolet,Joy,2025,Gasolina,Manual,18155,Buen estado,47300000
+Chevrolet,Onix,2011,Gasolina,Manual,195116,Medio estado,11400000
+Toyota,Yaris,2025,Gasolina,Manual,15658,Buen estado,65600000
+Mazda,BT-50,2005,Diesel,Manual,311815,Mal estado,25000000
+Honda,Civic,2025,Gasolina,Automatico,0,Nuevo 0 km,134800000
+Chevrolet,Tracker,2010,Gasolina,Automatico,293724,Medio estado,15100000
+Ford,EcoSport,2026,Diesel,Manual,17453,Buen estado,91200000
+Toyota,RAV4,2016,Gasolina,Automatico,192822,Buen estado,62600000
+Volkswagen,Polo,2008,Gasolina,Manual,352066,Mal estado,9000000
+Honda,Accord,2017,Gasolina,Manual,113004,Segunda mano,50400000
+Mazda,Mazda 6,2003,Gasolina,Manual,318913,Segunda mano,29200000
+Mazda,CX-30,2026,Gasolina,Automatico,9328,Buen estado,147700000
+Chevrolet,Captiva,2026,Gasolina,Automatico,195,Buen estado,128700000
+Honda,CR-V,2024,Gasolina,Automatico,34866,Buen estado,181200000
+Hyundai,i10,2007,Gasolina,Manual,335630,Mal estado,5700000
+Kia,Sorento,2004,Gasolina,Automatico,364093,Mal estado,29500000
+Renault,Sandero,2013,Gasolina,Manual,199053,Medio estado,10900000
+Toyota,Yaris,2019,Gasolina,Manual,125407,Buen estado,28600000
+Ford,Ranger,2005,Diesel,Manual,239939,Mal estado,31300000
+Ford,Escape,2022,Gasolina,Automatico,60547,Buen estado,98200000
+Kia,Sorento,2008,Gasolina,Automatico,241549,Mal estado,36000000
+Nissan,Versa,2019,Gasolina,Automatico,112948,Buen estado,32600000
+Toyota,Hilux,2024,Diesel,Automatico,28348,Buen estado,203400000
+Kia,Cerato,2014,Gasolina,Automatico,192192,Buen estado,24200000
+Nissan,March,2013,Gasolina,Manual,189840,Segunda mano,10100000
+Toyota,Fortuner,2022,Gasolina,Automatico,63702,Buen estado,183000000
+Ford,Explorer,2012,Gasolina,Manual,222707,Buen estado,74200000
+Ford,Explorer,2024,Gasolina,Automatico,31066,Buen estado,244400000
+Renault,Koleos,2013,Diesel,Automatico,243161,Buen estado,30500000
+Honda,Civic,2020,Gasolina,Manual,77659,Medio estado,59600000
+Kia,Sorento,2020,Diesel,Automatico,71054,Segunda mano,145500000
+Toyota,Fortuner,2025,Gasolina,Automatico,10843,Buen estado,266900000
+Renault,Koleos,2025,Diesel,Automatico,0,Nuevo 0 km,152500000
+Mazda,BT-50,2026,Diesel,Automatico,11546,Buen estado,177200000
+Nissan,March,2013,Gasolina,Manual,163504,Buen estado,12300000
+Toyota,Prado,2022,Gasolina,Automatico,70208,Buen estado,234000000
+Toyota,Yaris,2011,Gasolina,Automatico,268248,Segunda mano,11600000
+Ford,Ranger,2010,Diesel,Automatico,286399,Buen estado,35000000
+Mazda,BT-50,2024,Gasolina,Manual,20160,Buen estado,129700000
+Chevrolet,Tracker,2023,Gasolina,Automatico,59131,Buen estado,71800000
+Nissan,Kicks,2026,Gasolina,Automatico,13003,Buen estado,104000000
+Mazda,Mazda 6,2005,Gasolina,Automatico,381011,Mal estado,17400000
+Mazda,CX-5,2026,Gasolina,Automatico,13670,Buen estado,164400000
+Toyota,Hilux,2015,Diesel,Automatico,196124,Segunda mano,82000000
+Kia,Rio,2017,Gasolina,Automatico,164195,Segunda mano,22500000
+Kia,Picanto,2021,Gasolina,Automatico,73214,Segunda mano,32000000
+Volkswagen,Tiguan,2008,Gasolina,Automatico,229242,Segunda mano,33100000
+Toyota,Yaris,2014,Gasolina,Automatico,195102,Segunda mano,15800000
+Toyota,Prado,2014,Diesel,Automatico,214057,Medio estado,126700000
+Volkswagen,Amarok,2006,Diesel,Manual,382961,Segunda mano,31700000
+Toyota,Hilux,2023,Diesel,Automatico,49875,Buen estado,168700000
+Ford,Focus,2016,Gasolina,Manual,150752,Segunda mano,26400000
+Hyundai,Santa Fe,2008,Diesel,Automatico,241699,Mal estado,33600000
+Hyundai,Santa Fe,2006,Diesel,Automatico,266691,Medio estado,37700000
+Ford,Ranger,2011,Diesel,Automatico,214158,Buen estado,53500000
+Volkswagen,Polo,2011,Gasolina,Manual,220834,Buen estado,14800000
+Mazda,CX-30,2024,Gasolina,Automatico,35683,Buen estado,127500000
+Nissan,March,2008,Gasolina,Manual,271481,Segunda mano,9400000
+Kia,Cerato,2023,Gasolina,Automatico,59713,Buen estado,68600000
+Hyundai,Tucson,2017,Gasolina,Automatico,160896,Medio estado,40100000
+Ford,Escape,2021,Gasolina,Automatico,62643,Medio estado,77600000
+Honda,Civic,2015,Gasolina,Manual,126347,Medio estado,33700000
+Ford,Ranger,2005,Diesel,Manual,291314,Mal estado,27000000
+Kia,Rio,2026,Gasolina,Manual,0,Nuevo 0 km,70500000
+Honda,City,2014,Gasolina,Automatico,151305,Buen estado,23200000
+Honda,Civic,2013,Gasolina,Automatico,181478,Buen estado,27800000
+Nissan,Frontier,2019,Diesel,Manual,92353,Buen estado,97400000
+Volkswagen,Amarok,2009,Diesel,Manual,302287,Mal estado,29600000
+Hyundai,Elantra,2023,Gasolina,Manual,65929,Buen estado,74900000
+Nissan,X-Trail,2015,Gasolina,Automatico,179046,Medio estado,34800000
+Honda,CR-V,2023,Diesel,Automatico,50097,Buen estado,156800000
+Kia,Rio,2009,Gasolina,Automatico,201284,Segunda mano,15700000
+Mazda,BT-50,2024,Diesel,Manual,43876,Buen estado,146600000
+Ford,Fiesta,2008,Gasolina,Manual,234229,Segunda mano,13500000
+Nissan,Kicks,2022,Gasolina,Automatico,83854,Segunda mano,52900000
+Kia,Picanto,2012,Gasolina,Manual,226780,Medio estado,8100000
+Toyota,RAV4,2011,Gasolina,Automatico,253174,Medio estado,39000000
+Nissan,Frontier,2018,Diesel,Manual,94920,Medio estado,84700000
+Hyundai,Tucson,2023,Gasolina,Automatico,38948,Buen estado,107800000
+Hyundai,Tucson,2005,Gasolina,Automatico,288915,Segunda mano,28800000
+Ford,Focus,2026,Gasolina,Automatico,14128,Buen estado,106700000
+Hyundai,Santa Fe,2026,Diesel,Automatico,11849,Buen estado,253300000
+Kia,Rio,2018,Gasolina,Automatico,80753,Segunda mano,30200000
+Chevrolet,Spark,2022,Gasolina,Manual,57192,Segunda mano,28700000
+Toyota,Fortuner,2008,Diesel,Automatico,215078,Medio estado,54100000
+Honda,HR-V,2006,Gasolina,Manual,327251,Segunda mano,22700000
+Ford,EcoSport,2022,Gasolina,Automatico,65068,Segunda mano,54400000
+Toyota,Prado,2007,Diesel,Automatico,217046,Segunda mano,90200000
